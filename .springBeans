@@ -12,6 +12,8 @@
 		<config>src/beans-relation.xml</config>
 		<config>src/beans-scope.xml</config>
 		<config>src/beans-cycle.xml</config>
+		<config>src/beans-factory.xml</config>
+		<config>src/beans-beanfactory.xml</config>
 	</configs>
 	<configSets>
 	</configSets>
